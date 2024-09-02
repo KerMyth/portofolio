@@ -20,7 +20,7 @@ const About = () => {
               yang menggunakan algoritma Supervised dan Unsupervised.
             </p>
             <a
-              href="https://glints-dashboard.s3.ap-southeast-1.amazonaws.com/resume/db94cb9db48f3a953392cf634f0672fa.pdf?AWSAccessKeyId=AKIAJR3GSVCP6OKZQSZA&Expires=1725052185&Signature=fSAfajDIgE15rmuXEWtPns%2F4bJw%3D"
+              href="https://glints-dashboard.s3.ap-southeast-1.amazonaws.com/resume/75498154ba9273d326fe75bf19f0191e.pdf?AWSAccessKeyId=AKIAJR3GSVCP6OKZQSZA&Expires=1725331040&Signature=SLrl4cA%2BVXQPqbyoYf1f6mImjeI%3D"
               target="_blank"
               className="btn"
             >
